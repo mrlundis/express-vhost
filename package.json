@@ -12,13 +12,12 @@
   ],
   "author": {
     "name": "Tommy Messbauer",
-    "email": "tommy@vast.com",
-    "web": "http://vastdevblog.vast.com/"
+    "email": "tom.messbauer@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:vast-eng/express-vhost.git"
+    "url": "git@github.com:tommymessbauer/express-vhost.git"
   },
   "directories": {
     "tests": "tests"
@@ -34,6 +33,5 @@
     "tap": "*",
     "express": "*"
   },
-  "optionalDependencies": {},
-  "homepage": "http://vastdevblog.vast.com/"
+  "optionalDependencies": {}
 }

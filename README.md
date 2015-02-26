@@ -20,7 +20,7 @@ var appFactory = function(echo) {
 };
 
 var server = express();
-server.use(evh.vhost());
+server.use(evh.vhost(server.enabled('trust proxy')));
 server.listen(port);
 
 evh.register('test1-local', appFactory('test1'));

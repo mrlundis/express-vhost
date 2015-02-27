@@ -1,6 +1,6 @@
 {
   "name": "express-vhost",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "main": "index",
   "description": "Scalable vhost middleware for express.",
   "keywords": [
